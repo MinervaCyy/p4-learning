@@ -1,14 +1,14 @@
 
-p4c, a reference compiler that supports several backends and easily integrates into vendor-specific backends.
-p4c-bmv2 – targets the behavioral model
-p4c-ebpf – targets the Extended Berkeley Packet Framework
-p4c-graphs – produces parser and table flow graph diagrams
-p4test – a simple frontend verifier for P4 programs
-behavioral-model, a simulation environment to run the P4 software switch, standalone or in Mininet.
-p4runtime, a specification and Protobuf/gRPC interface definition for a runtime API to control data plane programs.
-PI is a reference implementation for P4Runtime
-p4runtime-shell is an interactive Python shell for P4Runtime based on IPython
-ptf, a packet test framework that interfaces with P4Runtime to enable switch configuration and test creation.
-p4app, a Docker container pre-packaged with a development environment to easily compile and deploy P4 programs using configuration rules.
-pna, ongoing work that will lead to a published Portable NIC Architecture specification
-p4app-switchML, accelerates the all-reduce communication primitive commonly used by distributed Machine Learning frameworks.
+--p4c, a reference compiler that supports several backends and easily integrates into vendor-specific backends.
+--p4c-bmv2 – targets the behavioral model
+--p4c-ebpf – targets the Extended Berkeley Packet Framework
+--p4c-graphs – produces parser and table flow graph diagrams
+--p4test – a simple frontend verifier for P4 programs
+--behavioral-model, a simulation environment to run the P4 software switch, standalone or in Mininet.
+--p4runtime, a specification and Protobuf/gRPC interface definition for a runtime API to control data plane programs.
+--PI is a reference implementation for P4Runtime
+--p4runtime-shell is an interactive Python shell for P4Runtime based on IPython
+--ptf, a packet test framework that interfaces with P4Runtime to enable switch configuration and test creation.
+--p4app, a Docker container pre-packaged with a development environment to easily compile and deploy P4 programs using configuration rules.
+--pna, ongoing work that will lead to a published Portable NIC Architecture specification
+--p4app-switchML, accelerates the all-reduce communication primitive commonly used by distributed Machine Learning frameworks.
